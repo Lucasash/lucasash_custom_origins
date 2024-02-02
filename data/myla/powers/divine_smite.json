@@ -1,0 +1,12 @@
+{
+    "type": "origins:target_action_on_hit",
+    "entity_action": {
+        "type": "origins:damage",
+        "amount": 4,
+        "damage_type": "minecraft:sonic_boom"
+    },
+    "target_condition": {
+        "type": "origins:entity_group",
+        "group": "undead"     
+    }
+}

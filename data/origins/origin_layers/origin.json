@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "origins": [
+    "artemis:artemis",
+    "pyrrha:pyrrha",
+    "myla:myla"
+  ]
+}

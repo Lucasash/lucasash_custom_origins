@@ -1,0 +1,33 @@
+{
+    "type": "origins:active_self",
+    "trigger": "instant",
+    "entity_action": {
+        "type": "origins:apply_effect",
+        "effects": [
+            {
+                "effect": "minecraft:absorption",
+                "duration": 120,
+                "is_ambient": false,
+                "show_particles": false,
+                "show_icon": true,
+                "amplifier": 1
+            },
+            {
+                "effect": "minecraft:resistance",
+                "duration": 120,
+                "is_ambient": false,
+                "show_particles": false,
+                "show_icon": true,
+                "amplifier": 0
+            }
+        ]
+    },
+    "cooldown": 240,
+    "hud_render": {
+        "should_render": true,
+        "bar_index": 5
+    },
+    "key": {
+        "key": "key.origins.primary_active"
+    }
+}

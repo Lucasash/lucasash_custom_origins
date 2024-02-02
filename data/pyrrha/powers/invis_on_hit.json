@@ -1,0 +1,17 @@
+{
+  "type": "origins:action_when_damage_taken",
+  "entity_action": {
+      "type": "origins:apply_effect",
+      "effect": {
+          "effect": "minecraft:invisibility",
+          "amplifier": 1,
+          "duration": 100
+      }
+  },
+  "damage_condition": {
+      "type": "origins:amount",
+      "comparison": ">=",
+      "compare_to": 2.0
+  },
+  "cooldown": 1200
+}

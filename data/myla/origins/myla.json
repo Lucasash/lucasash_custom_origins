@@ -1,0 +1,15 @@
+{
+	"powers": [
+		"myla:stones_endurance",
+		"myla:divine_smite",
+		"myla:iron_defense",
+		"myla:thunderous_smite",
+		"myla:heavy_armor",
+		"myla:aura"
+	],
+	"icon": "minecraft:shield",
+	"order": 1,
+	"impact": 1,
+	"name": "Myla",
+	"description": "Big woman"
+}

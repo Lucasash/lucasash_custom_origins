@@ -1,0 +1,15 @@
+{
+	"powers": [
+		"artemis:secondary_tp",
+		"origins:extra_reach",
+		"origins:phasing",
+		"origins:more_exhaustion",
+		"origins:no_shield",
+		"origins:pumpkin_hate"
+	],
+	"icon": "minecraft:totem_of_undying",
+	"order": 1,
+	"impact": 3,
+	"name": "Artemis",
+	"description": "She's so annoying"
+}

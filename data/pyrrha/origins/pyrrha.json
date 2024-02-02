@@ -1,0 +1,19 @@
+{
+	"powers": [
+		"pyrrha:invis_on_hit",
+		"pyrrha:dash",
+		"pyrrha:bouncy",
+		"pyrrha:air_speed",
+		"pyrrha:slow_on_hit",
+		"origins:fall_immunity",
+		"origins:sprint_jump",
+		"origins:tailwind",
+		"origins:light_armor",
+		"origins:no_shield"
+	],
+	"icon": "minecraft:firework_rocket",
+	"order": 1,
+	"impact": 1,
+	"name": "Pyrrha",
+	"description": "She a dork"
+}
