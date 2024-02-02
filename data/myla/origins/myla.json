@@ -4,8 +4,10 @@
 		"myla:divine_smite",
 		"myla:iron_defense",
 		"myla:thunderous_smite",
+		"myla:thunderous_smite_launch",
+		"myla:aura",
 		"myla:heavy_armor",
-		"myla:aura"
+		"origins:more_exhaustion"
 	],
 	"icon": "minecraft:shield",
 	"order": 1,
