@@ -1,9 +1,7 @@
 {
-    "type": "origins:attribute",
-    "modifier": {
-      "attribute": "additionalentityattributes:water_speed",
-      "name": "Additional swim speed",
-      "value": 1.5,
-      "operation": "multiply_base"
-    }
+  "type": "origins:modify_swim_speed",
+  "modifier": {
+      "operation": "addition",
+      "value": -0.01
   }
+}
