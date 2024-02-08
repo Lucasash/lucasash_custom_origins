@@ -1,10 +1,10 @@
 {
 	"powers": [
-		"pyrrha:invis_on_hit",
-		"pyrrha:dash",
-		"pyrrha:bouncy",
-		"pyrrha:air_speed",
-		"pyrrha:slow_on_hit",
+		"lco_origins:invis_on_hit",
+		"lco_origins:dash",
+		"lco_origins:bouncy",
+		"lco_origins:air_speed",
+		"lco_origins:slow_on_hit",
 		"origins:fall_immunity",
 		"origins:sprint_jump",
 		"origins:tailwind",

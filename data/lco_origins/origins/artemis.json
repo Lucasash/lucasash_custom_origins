@@ -1,8 +1,8 @@
 {
 	"powers": [
-		"artemis:sword_dash",
-		"artemis:fireball",
-		"artemis:air_speed",
+		"lco_origins:sword_dash",
+		"lco_origins:fireball",
+		"lco_origins:air_speed",
 		"origins:more_exhaustion",
 		"origins:no_shield",
 		"origins:pumpkin_hate"

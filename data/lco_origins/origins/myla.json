@@ -1,0 +1,17 @@
+{
+	"powers": [
+		"lco_origins:stones_endurance",
+		"lco_origins:divine_smite",
+		"lco_origins:iron_defense",
+		"lco_origins:thunderous_smite",
+		"lco_origins:thunderous_smite_launch",
+		"lco_origins:aura",
+		"lco_origins:heavy_armor",
+		"origins:more_exhaustion"
+	],
+	"icon": "minecraft:shield",
+	"order": 1,
+	"impact": 1,
+	"name": "Myla",
+	"description": "Big woman"
+}

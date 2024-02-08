@@ -1,8 +1,8 @@
 {
   "replace": false,
   "origins": [
-    "artemis:artemis",
-    "pyrrha:pyrrha",
-    "myla:myla"
+    "lco_origins:artemis",
+    "lco_origins:pyrrha",
+    "lco_origins:myla"
   ]
 }
