@@ -2,7 +2,7 @@
   "replace": false,
   "origins": [
     "lco_origins:bladesinger",
-    "lco_origins:freerunner",
+    "lco_origins:monk",
     "lco_origins:paladin"
   ]
 }
