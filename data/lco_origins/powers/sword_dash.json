@@ -142,5 +142,7 @@
                 }
             }
         ]
-    }
+    },
+    "name": "Steelwind Strike",
+    "description": "Right click with a sword to dash in the direction you're facing. (2 sec cooldown)"
 }

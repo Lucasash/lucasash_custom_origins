@@ -12,5 +12,7 @@
     "hud_render": {
         "should_render": true,
         "bar_index": 5
-    }
+    },
+    "name": "Stunning Strike",
+    "description": "Inflict Slowness I on-hit. (5 sec cooldown)"
 }

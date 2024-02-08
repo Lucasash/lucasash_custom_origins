@@ -2,7 +2,7 @@
     "type": "origins:active_self",
     "entity_action": {
         "type": "origins:area_of_effect",
-        "radius": 10,
+        "radius": 6,
         "bientity_action": {
             "type": "origins:target_action",
             "action": {
@@ -65,5 +65,8 @@
                 }
             }
         ]
-    }
+    },
+    "name": "Shield of Faith",
+    "description": "Right click with a shield to buff yourself and players within 6 blocks for 6 seconds. (6 sec cooldown)"
+    
 }

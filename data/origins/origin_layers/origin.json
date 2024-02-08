@@ -1,8 +1,8 @@
 {
   "replace": false,
   "origins": [
-    "lco_origins:artemis",
-    "lco_origins:pyrrha",
-    "lco_origins:myla"
+    "lco_origins:bladesinger",
+    "lco_origins:freerunner",
+    "lco_origins:paladin"
   ]
 }

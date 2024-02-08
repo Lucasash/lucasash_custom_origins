@@ -15,5 +15,7 @@
     },
     "key": {
         "key": "key.origins.primary_active"
-    }
+    },
+    "name": "Air dash",
+    "description": "Dash forward in the direction you're facing  when pressing your Primary Active key (5 sec cooldown)"
 }

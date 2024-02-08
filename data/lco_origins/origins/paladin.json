@@ -12,6 +12,6 @@
 	"icon": "minecraft:shield",
 	"order": 1,
 	"impact": 1,
-	"name": "Myla",
-	"description": "Big woman"
+	"name": "Paladin",
+	"description": "A tank with offensive, defensive, and supportive capabilities."
 }

@@ -11,5 +11,7 @@
     "hud_render": {
         "should_render": true,
         "bar_index": 5
-    }
+    },
+    "name": "Thunderous Smite",
+    "description": "Release an explosion on-hit. (20 sec cooldown)"
 }

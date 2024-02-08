@@ -13,5 +13,7 @@
       "comparison": ">=",
       "compare_to": 2.0
   },
-  "cooldown": 1200
+  "cooldown": 1200,
+  "name": "Stealthy Retreat",
+  "description": "Turn invisible for 5 seconds when taking >2 hearts of damage. (60 sec cooldown)"
 }

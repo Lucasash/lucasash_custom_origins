@@ -3,5 +3,7 @@
     "modifier": {
         "operation": "multiply_total",
         "value": 2
-    }
+    },
+    "name": "Aerodynamic",
+    "description": "Increased air mobility."
 }

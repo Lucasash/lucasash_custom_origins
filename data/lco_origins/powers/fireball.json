@@ -12,5 +12,7 @@
     "key": {
       "key": "key.origins.primary_active",
       "continuous": false
-    }
+    },
+    "name": "Fireball",
+    "description": "Launch a fireball by pressing the Primary Active key. (6 sec cooldown)"
   }
